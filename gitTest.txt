@@ -1,2 +1,2 @@
-I'm trying to learn how to use Git.
+I'm trying to learn how to use Git. 2ndly modifying this line.
 This is my first file. Modifying this line.
