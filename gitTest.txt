@@ -1,2 +1,3 @@
 I'm trying to learn how to use Git. 2ndly modifying this line.
 This is my first file. Modifying this line.
+3rd modification: adding a 3rd line.
